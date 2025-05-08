@@ -61,3 +61,5 @@ Use Case Diagrams are a behavioral diagram type from the Unified Modeling Langua
 
 * **Identify Functional Requirements:** Each use case often corresponds directly to one or more functional requirements.
 
+![Booking System Use Case Diagram](https://github.com/UbaniTheFirst/requirement-analysis/blob/0703e79a86cee6b6cbfb8d2304c8111eadbd84ad/alx-booking-uc.png)
+
