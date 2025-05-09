@@ -1,4 +1,4 @@
-# “Requirement Analysis in Software Development.”
+# Requirement Analysis in Software Development.
 This repository, "requirement-analysis", serves as the central hub for the "Requirement Analysis Project". Its primary purpose is to house all documentation, diagrams, and artifacts generated during the simulation of the requirement analysis phase for a booking management system.
 
 # What is Requirement Analysis?
