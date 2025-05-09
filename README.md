@@ -63,3 +63,20 @@ Use Case Diagrams are a behavioral diagram type from the Unified Modeling Langua
 
 ![Booking System Use Case Diagram](https://github.com/UbaniTheFirst/requirement-analysis/blob/0703e79a86cee6b6cbfb8d2304c8111eadbd84ad/alx-booking-uc.png)
 
+Here is the content for the "Acceptance Criteria" section of your README.md:
+
+# Acceptance Criteria
+Acceptance Criteria are conditions that a software system must satisfy to be accepted by a user, customer, or other stakeholder.  In Requirement Analysis, they are crucial because they define the specific conditions under which a requirement or a feature is considered complete and functioning correctly from the user's perspective. They act as a clear checklist for testing and validation, ensuring that what is built truly meets the intended need and quality standards. Establishing clear acceptance criteria early helps align expectations between stakeholders and the development team and provides a concrete basis for determining when a feature is "done." 
+
+**Example: Acceptance Criteria for Checkout Feature**
+For a "Checkout" feature in the booking management system, the acceptance criteria might include:
+
+* The system shall display a summary of the booking details (e.g., item, dates, price, quantity) before payment.
+* The system shall allow the user to enter valid payment information (e.g., credit card details, digital wallet).
+* The system shall validate the entered payment information before processing.
+* Upon successful payment, the system shall display a confirmation message to the user.
+* Upon successful payment, the system shall send a booking confirmation email to the user's registered email address.
+* If payment fails, the system shall display a clear error message explaining why the payment failed.
+* The system shall update the booking status to "Confirmed" or "Failed" based on the payment outcome.
+* The system shall prevent the user from proceeding with checkout if required fields (e.g., payment details) are missing or invalid.
+
